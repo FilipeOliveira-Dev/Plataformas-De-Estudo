@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://www.rocketseat.com.br/discover?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -35,7 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links, que eu alterei e configurei para colocar o link das <b>Plataformas de Estudo</b> que estou participando no momento.
 
-- [Acesse o projeto finalizado, online](#)
+- [Acesse o projeto finalizado, online](https://filipeoliveira-dev.github.io/Plataformas-De-Estudo/)
+- [Conheça os cursos da Rocketseat](https://app.rocketseat.com.br/cart/rocketseat-one?referral=filipe-oliveira-dev&coupon=indicamgm&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one)
 
 
 
