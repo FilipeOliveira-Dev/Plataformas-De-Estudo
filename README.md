@@ -9,7 +9,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-desenvolvedor">Desenvolvedor</a>
 </p>
 
 <p align="center">
@@ -22,6 +23,14 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src="./assets/Cover.png" width="100%">
 </p>
 
+## 💻 Projeto
+
+O DevLinks é um agregador de links, que eu alterei e configurei para colocar o link das <b>Plataformas de Estudo</b> que estou participando no momento.
+
+- [Acesse o projeto finalizado, online](https://filipeoliveira-dev.github.io/Plataformas-De-Estudo/)
+- [Conheça os cursos da Rocketseat](https://app.rocketseat.com.br/cart/rocketseat-one?referral=filipe-oliveira-dev&coupon=indicamgm&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one)
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -31,15 +40,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
-
-O DevLinks é um agregador de links, que eu alterei e configurei para colocar o link das <b>Plataformas de Estudo</b> que estou participando no momento.
-
-- [Acesse o projeto finalizado, online](https://filipeoliveira-dev.github.io/Plataformas-De-Estudo/)
-- [Conheça os cursos da Rocketseat](https://app.rocketseat.com.br/cart/rocketseat-one?referral=filipe-oliveira-dev&coupon=indicamgm&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one)
-
-
-
 ## 🔖 Layout
 
 Você pode visualizar o layout base do projeto da Rocketseat através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). (É necessário ter conta no [Figma](https://figma.com) para acessá-lo).
@@ -47,6 +47,14 @@ Você pode visualizar o layout base do projeto da Rocketseat através [DESSE LIN
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+## 👨🏻‍💻 Desenvolvedor:
+
+<li> <b>E-mail:</b> <a href="mailto:filipe.osilvadev@gmail.com">Filipe.osilvadev@gmail.com</a>
+<li> <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/filipeoliveiradasilva/">Filipe Oliveira</a>
+<li> <b>Estudos:</b> <a href="https://filipeoliveira-dev.github.io/Plataformas-De-Estudo/">Minhas Plataformas de Estudo</a>
+
+    Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😊
 
 ---
 <p align="center">
